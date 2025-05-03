@@ -1,0 +1,43 @@
+{
+    "api": {
+        "binance": {
+            "api_key": "",
+            "api_secret": ""
+        },
+        "telegram": {
+            "token": "",
+            "chat_id": "",
+            "enabled": true
+        },
+        "news": {
+            "gnews_api_key": "",
+            "newsapi_api_key": "",
+            "deepseek_api_key": "",
+            "deepseek_api_url": "https://api.deepseek.com/v1/chat/completions",
+            "enabled": true
+        }
+    },
+    "trading": {
+        "symbol": "SHELLUSDT",
+        "interval": "15m",
+        "stop_loss_percent": 5.0,
+        "take_profit_percent": 10.0,
+        "trade_quantity": 100.0,
+        "sentiment_influence_enabled": true,
+        "sentiment_influence_weight": 0.5
+    },
+    "monitoring": {
+        "duration_minutes": 120,
+        "refresh_interval_seconds": 5,
+        "price_alert_threshold": 1.0,
+        "news_query": "MyShell OR SHELL coin crypto",
+        "max_news_per_source": 3
+    },
+    "ui": {
+        "theme": "dark",
+        "language": "zh_CN",
+        "chart_update_interval_ms": 1000,
+        "enable_sound_alerts": true,
+        "show_desktop_notifications": true
+    }
+}
