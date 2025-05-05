@@ -11,14 +11,12 @@
 
  Just open it and set a few `api_keys` and you're ready to go.
 
-![image.png](attachment:4d26f480-08c5-4882-ba48-55b064c5316a:image.png)
+![image](https://github.com/user-attachments/assets/104d4e60-db14-4c64-aef6-367c56bc43f1)
+
 
  The Telegram program can be accessed by adding `Bot_Father` + `Get_BotID`.
 
  It is as follows:
-
-![image.png](attachment:c8be7888-439e-4ba8-8d3e-2ccd859d8aa6:image.png)
-
-![image.png](attachment:6d671953-39b6-42c4-a852-5c328043f6fe:image.png)
-
-![image.png](attachment:85c90552-4178-4cf9-ac1c-6c442c7830d9:image.png)
+![image](https://github.com/user-attachments/assets/d30494dc-9b25-40d3-a048-a95d4993d8d5)
+![image](https://github.com/user-attachments/assets/3f2fbfd8-e81a-461f-95d6-4b9b08157fa3)
+![image](https://github.com/user-attachments/assets/5ed73f05-12a9-4dbd-85b0-50e92dd95b85)
