@@ -1,4 +1,5 @@
-![image.png](attachment:aad2dd35-bdcd-40a5-9314-39aea8a6bc1b:image.png)
+![image](https://github.com/user-attachments/assets/b88b9969-f59c-4766-a02b-97b081a71f8f)
+
 
  This is a program that can quickly monitor the price of coins and actively push it to Telegram, using the binance api and DeepSeek's big model analysis to give buy and sell advice.
 
